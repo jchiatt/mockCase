@@ -1,2 +1,0 @@
-# mockCase
-Created with CodeSandbox
